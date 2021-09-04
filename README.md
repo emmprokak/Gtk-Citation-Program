@@ -1,5 +1,7 @@
 Gtk Citation Program
+
 Prokakis Emmanouil (C) 2021
+
 Version 1.0
 
 Hi there! I am happy to see you found my software on github and I hope you 
