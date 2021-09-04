@@ -1,4 +1,4 @@
-Gtk Citation Program 
+Gtk Citation Program\n
 Prokakis Emmanouil (C) 2021
 Version 1.0
 
