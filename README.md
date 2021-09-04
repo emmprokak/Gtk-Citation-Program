@@ -1,6 +1,4 @@
-Gtk Citation Program
-
-Prokakis Emmanouil (C) 2021
+Gtk Citation Program - Prokakis Emmanouil (C) 2021
 
 Version 1.0
 
