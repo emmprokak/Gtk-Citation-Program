@@ -1,4 +1,4 @@
-# Gtk Citation Program Version 1.0
+# Gtk Citation Program
  Prokakis Emmanouil (C) 2021
 
 Hi there! I am happy to see you found my software on github and I hope you may find some use in it.
