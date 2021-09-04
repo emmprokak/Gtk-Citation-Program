@@ -1,16 +1,15 @@
-#Gtk Citation Program
-
-#Prokakis Emmanouil (C) 2021
-
-#Version 1.0
-![central](https://user-images.githubusercontent.com/89413115/132100397-15bf6735-e87a-45f0-a21c-b5a048211195.png)
-
+# Gtk Citation Program Version 1.0
+ Prokakis Emmanouil (C) 2021
 
 Hi there! I am happy to see you found my software on github and I hope you may find some use in it.
 
 This Citation Program, based on the Gtk toolkit and written in Python, aims to help the user format his/her citations in a more automated way. The program formats the data given by the user to a complete citation, ready to be pasted into school/university projects and academic papers!
 
+![central](https://user-images.githubusercontent.com/89413115/132100397-15bf6735-e87a-45f0-a21c-b5a048211195.png)
+
+
 The program allows users to cite papers, books and in-book chapters in both the Harvard and APA citation standards. All the user has to do is enter data in the entries of the GUI, and the program will format the citation in a proper manner.
+
 ![Screenshot from 2021-09-02 19-35-32](https://user-images.githubusercontent.com/89413115/132100419-4340183d-44aa-4c9d-a048-20d53b36dbb7.png)
 
 
