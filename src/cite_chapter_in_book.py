@@ -396,7 +396,7 @@ class CiteChapter(Gtk.Window):
 		# check if it will be (ed) or (eds)
 		if self.in_two_auth or self.in_three_auth:	
 			self.format += f" (eds) ({in_year}), {in_title.title()}, {in_place.title()}: {in_publisher.title()}"
-		elif self.in_one_auth:
+		else:
 			self.format += f" (ed) ({in_year}), {in_title.title()}, {in_place.title()}: {in_publisher.title()}"
 		
 		self.result_label.set_text(self.format)	
@@ -459,7 +459,7 @@ class CiteChapter(Gtk.Window):
 		# check if it will be (ed) or (eds)
 		if self.in_two_auth or self.in_three_auth:	
 			self.format += f"  (eds) ({in_year}). {in_title.title()}. {in_place.title()}: {in_publisher.title()}"
-		elif self.in_one_auth:
+		else:
 			self.format += f" (ed) ({in_year}). {in_title.title()}. {in_place.title()}: {in_publisher.title()}"
 						
 		self.result_label.set_text(self.format)
