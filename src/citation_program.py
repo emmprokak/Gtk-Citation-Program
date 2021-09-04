@@ -24,7 +24,7 @@ gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 from cite_book import CiteBook
 from cite_paper import CitePaper
-from chapter_in_book import CiteChapter
+from cite_chapter_in_book import CiteChapter
 from info import InfoBox
 
 class CitationProgram(Gtk.Window):
