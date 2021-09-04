@@ -20,7 +20,7 @@ For Linux: Just download the zip file, extract it and run the citation_program.p
 
 A feature, that the program is currently missing, is the automatic formatting of parts of the resulting citation as italics text, which is needed for some citations. It can be done for Gtk.Label() objects with label_obj.set_markup(), but I seem unable to store the italics text to a variable, in order for it to be copied to clipboard by the Copy button. I am certain that with more time, and given the help of this large community, a solution will be found.
 
-Please remember that I am a self-taught programmer, and that I do this as a hobby because: a)It's fun and b)I want to give back to the Free and Open Source Software community.
+Please remember that I am a self-taught programmer, and that I do this as a hobby because: a) It's fun and b) I want to give back to the Free and Open Source Software community.
 
 If there is anything in the code that could be classified as a bad practice, please don't hesitate to point it out, since it's going to make the software better and help me improve in the future.
 
