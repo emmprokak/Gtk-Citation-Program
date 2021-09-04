@@ -1,8 +1,8 @@
-Gtk Citation Program
+#Gtk Citation Program
 
-Prokakis Emmanouil (C) 2021
+#Prokakis Emmanouil (C) 2021
 
-Version 1.0
+#Version 1.0
 ![central](https://user-images.githubusercontent.com/89413115/132100397-15bf6735-e87a-45f0-a21c-b5a048211195.png)
 
 
