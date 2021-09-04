@@ -15,6 +15,7 @@ The icons of the program are all made by Dany Lip.
 !!!Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested). A Windows version will probably come in the future.!!!
 
 For Linux: Just download the zip file, extract it and run the citation_program.py module:
+
   -python3 citation_program.py
 
 A feature, that the program is currently missing, is the automatic formatting of parts of the resulting citation as italics text, which is needed for some citations. It can be done for Gtk.Label() objects with label_obj.set_markup(), but I seem unable to store the italics text to a variable, in order for it to be copied to clipboard by the Copy button. I am certain that with more time, and given the help of this large community, a solution will be found.
