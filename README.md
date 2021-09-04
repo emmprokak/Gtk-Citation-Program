@@ -1,5 +1,5 @@
 # Gtk Citation Program
- Prokakis Emmanouil (C) 2021
+## Prokakis Emmanouil (C) 2021
 
 Hi there! I am happy to see you found my software on github and I hope you may find some use in it.
 
@@ -12,15 +12,15 @@ The program allows users to cite papers, books and in-book chapters in both the 
 
 ![Screenshot from 2021-09-02 19-35-32](https://user-images.githubusercontent.com/89413115/132100419-4340183d-44aa-4c9d-a048-20d53b36dbb7.png)
 
-
 The icons of the program are all made by Dany Lip.
 
-!!!Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested). A Windows version will probably come in the future.!!!
+**Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested). A Windows version will probably come in the future.**
 
-For Linux: Just download the zip file, extract it and run the citation_program.py module from terminal with:
-
-  -python3 citation_program.py
-
+For Linux: Just download the zip file, extract it and run the citation_program.py module from terminal with
+```
+python3 citation_program.py
+```
+  
 A feature, that the program is currently missing, is the automatic formatting of parts of the resulting citation as italics text, which is needed for some citations. It can be done for Gtk.Label() objects with label_obj.set_markup(), but I seem unable to store the italics text to a variable, in order for it to be copied to clipboard by the Copy button. I am certain that with more time, and given the help of this large community, a solution will be found.
 
 Please remember that I am a self-taught programmer, and that I do this as a hobby because: a) It's fun and b) I want to give back to the Free and Open Source Software community.
