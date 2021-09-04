@@ -431,7 +431,7 @@ class CiteChapter(Gtk.Window):
 			if not in_single_word_2nd_author:
 				self.format += f", {in_word_of_given_text_2nd[0].title()}, {in_letter_2nd[0].title()}."
 			else:
-				self.format += f"{in_author_2nd.upper()}"
+				self.format += f", {in_author_2nd.upper()}"
 			
 			# but a 2nd author can exist without a 3rd, resulting in an extra if statement for the 3rd
 			if self.three_auth:
