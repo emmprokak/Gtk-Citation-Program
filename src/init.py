@@ -47,8 +47,7 @@ class GtkCitationProgram(Gtk.Window):
 		self.box_main_two = Gtk.Box(orientation = Gtk.Orientation.HORIZONTAL,spacing = 30)
 		self.box_main_menu.pack_start(self.box_main_two,True,True,0)
 		self.box_main_three = Gtk.Box(orientation = Gtk.Orientation.HORIZONTAL,spacing = 5)
-		self.box_main_menu.pack_start(self.box_main_three,True,True,0)
-		
+		self.box_main_menu.pack_start(self.box_main_three,True,True,0)		
 		# labels of main menu
 		main_label = Gtk.Label()
 		main_label.set_markup("<i>Prokakis Emmanouil (C) 2021 </i>\nlicensed under the GNU GPLv3")
@@ -75,7 +74,6 @@ class GtkCitationProgram(Gtk.Window):
 		window_info = InfoBox()
 		
 	def create_main_menu_buttons(self):
-		
 		# images for buttons of main menu
 		image_paper = Gtk.Image()
 		image_paper.set_from_file("../res/paper.png")
