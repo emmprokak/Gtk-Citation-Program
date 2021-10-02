@@ -1,4 +1,4 @@
-# Gtk Citation Program v1.0
+# Gtk Citation Program v1.1
 ## Copyright (C) 2021 Prokakis Emmanouil
 
 Hi there! I am happy to see you found my software on github and I hope you may find some use in it.
@@ -10,15 +10,16 @@ This Citation Program, based on the Gtk toolkit and written in Python, aims to h
 
 The program allows users to cite papers, books and in-book chapters in both the Harvard and APA citation standards. All the user has to do is enter data in the entries of the GUI, and the program will format the citation in a proper manner.
 
-![Screenshot from 2021-09-02 19-35-32](https://user-images.githubusercontent.com/89413115/132100419-4340183d-44aa-4c9d-a048-20d53b36dbb7.png)
+
+![Screenshot from 2021-10-02 15-48-51](https://user-images.githubusercontent.com/89413115/135716913-25101c38-60bf-4cdd-b21a-853545da91d4.png)
 
 The icons of the program are all made by Dany Lip.
 
-**Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested). A Windows version will probably come in the future.**
+**Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested).**
 
 For Linux: Just download the zip file, extract it and run the citation_program.py module from terminal with
 ```
-python3 citation_program.py
+python3 citation_main.py
 ```
 Please remember that I am a self-taught programmer, and that I do this as a hobby because: a) It's fun and b) I want to give back to the Free and Open Source Software community.
 
