@@ -184,7 +184,6 @@ def format_in_citation(gui_obj):
 				gui_obj.format += f", {in_word_of_given_text_2nd[0].title()}, {in_letter_2nd[0].title()}."
 			else:
 				gui_obj.format += f", {in_author_2nd.upper()}" 		
-
 		
 		# but a 2nd author can exist without a 3rd, resulting in an extra if statement for the 3rd
 		if gui_obj.in_three_auth:
