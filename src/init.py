@@ -52,10 +52,7 @@ class GtkCitationProgram(Gtk.Window):
 		# labels of main menu
 		main_label = Gtk.Label()
 		main_label.set_markup("<i>Prokakis Emmanouil (C) 2021 </i>\nlicensed under the GNU GPLv3")
-		self.box_main_one.pack_start(main_label, True,True,0)
-		
-		
-		
+		self.box_main_one.pack_start(main_label, True,True,0)		
 		self.create_main_menu_buttons()	
 		
 	def get_citation_type(self):			
