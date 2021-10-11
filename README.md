@@ -13,7 +13,7 @@ The program allows users to cite papers, books and in-book chapters in both the 
 
 ![Screenshot from 2021-10-02 15-48-51](https://user-images.githubusercontent.com/89413115/135716913-25101c38-60bf-4cdd-b21a-853545da91d4.png)
 
-The icons of the program are all made by Dany Lip.
+The icons of the program are all made by Danae Lypiridi.
 
 **Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested).**
 
