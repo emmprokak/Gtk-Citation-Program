@@ -1,8 +1,6 @@
 # Gtk Citation Program v1.1
 ## Copyright (C) 2021 Prokakis Emmanouil
 
-Hi there! I am happy to see you found my software on github and I hope you may find some use in it.
-
 This Citation Program, based on the Gtk toolkit and written in Python, aims to help the user format his/her citations in a more automated way. The program formats the data given by the user to a complete citation, ready to be pasted into school/university projects and academic papers!
 
 ![central](https://user-images.githubusercontent.com/89413115/132100397-15bf6735-e87a-45f0-a21c-b5a048211195.png)
@@ -21,6 +19,8 @@ For Linux: Just download the zip file, extract it and run the citation_main.py m
 ```
 python3 citation_main.py
 ```
+For Windows users: I have made a version of the program available for Windows and you can find at https://github.com/emmprokak/Qt-Citation-Program.
+
 Please remember that I am a self-taught programmer, and that I do this as a hobby because: a) It's fun and b) I want to give back to the Free and Open Source Software community.
 
 If there is anything in the code that could be classified as a bad practice, please don't hesitate to point it out, since it's going to make the software better and help me improve in the future.
