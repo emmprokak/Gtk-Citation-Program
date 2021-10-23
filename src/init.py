@@ -55,11 +55,7 @@ class GtkCitationProgram(Gtk.Window):
 		self.create_main_menu_buttons()	
 		
 	def get_citation_type(self):			
-		if self.combo.get_active_text() == 'Harvard Style':
-			self.style = 'Harvard'
-		elif self.combo.get_active_text() == 'APA Style':
-			self.style = 'APA'
-		return self.style
+		return self.combo.get_active_text()
 		
 	def cite_paper(self,widget):
 		window_paper = Citation_GUI("paper",self.get_citation_type())
