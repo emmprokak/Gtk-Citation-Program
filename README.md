@@ -17,7 +17,7 @@ The icons of the program are all made by Danae Lypiridi.
 
 **Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested).**
 
-For Linux: Just download the zip file, extract it and run the citation_main.py module from terminal with
+For Linux: Just download the zip file, extract it, navigate to the src/ directory and run the citation_main.py module from terminal with
 ```
 python3 citation_main.py
 ```
