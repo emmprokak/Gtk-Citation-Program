@@ -3,13 +3,15 @@
 
 This Citation Program, based on the Gtk toolkit and written in Python, aims to help the user format his/her citations in a more automated way. The program formats the data given by the user to a complete citation, ready to be pasted into school/university projects and academic papers!
 
-![central](https://user-images.githubusercontent.com/89413115/132100397-15bf6735-e87a-45f0-a21c-b5a048211195.png)
+
+![main_menu](https://user-images.githubusercontent.com/89413115/140489448-b7d1d652-e68f-4b12-a1ce-fba543ef1aa6.png)
 
 
 The program allows users to cite papers, books and in-book chapters in both the Harvard and APA citation standards. All the user has to do is enter data in the entries of the GUI, and the program will format the citation in a proper manner.
 
 
-![Screenshot from 2021-10-02 15-48-51](https://user-images.githubusercontent.com/89413115/135716913-25101c38-60bf-4cdd-b21a-853545da91d4.png)
+![example_citation](https://user-images.githubusercontent.com/89413115/140489472-c38f8d15-b13e-4959-9459-62849dbe35f0.png)
+
 
 The icons of the program are all made by Danae Lypiridi.
 
@@ -20,6 +22,9 @@ For Linux: Just download the zip file, extract it and run the citation_main.py m
 python3 citation_main.py
 ```
 For Windows users: I have made a version of the program available for Windows and you can find at https://github.com/emmprokak/Qt-Citation-Program.
+
+
+![info_window](https://user-images.githubusercontent.com/89413115/140489533-5fe5db95-082e-466c-b963-6f344cd7881c.png)
 
 Please remember that I am a self-taught programmer, and that I do this as a hobby because: a) It's fun and b) I want to give back to the Free and Open Source Software community.
 
