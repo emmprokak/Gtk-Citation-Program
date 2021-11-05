@@ -16,6 +16,8 @@ The program allows users to cite papers, books and in-book chapters in both the 
 The icons of the program are all made by Danae Lypiridi.
 
 **Beware that this program is currently running only on Linux (Gnome, Kde, Xfce and Pantheon have been tested).**
+
+
 **For Windows users: I have made a version of the program available for Windows and you can find at https://github.com/emmprokak/Qt-Citation-Program.**
 
 For Linux: Just download the zip file, extract it, navigate to the src/ directory and run the citation_main.py module from terminal with
